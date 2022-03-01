@@ -1,18 +1,18 @@
 */
 :root
 {
-	: rgb(100,50,18);
+	: lightblue 100,50,18;
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(lightblue);
+	background-color:  lightblue;
 }
 header
 {
 	background-color:  silver;
-	border: 5px dashed #E8E8E8;
+	border: 5px dashed #FFFFFF;
 	margin: 10px 100px;
 }
 header h1
@@ -24,7 +24,7 @@ header h1
 header h2
 {
 	font-size:  20pt;
-	color: var cornflowerblue;
+	color: var black;
 	font-variant: small-caps;
 }
 main h1
