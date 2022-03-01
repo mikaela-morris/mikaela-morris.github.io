@@ -1,4 +1,4 @@
-*/
+*
 :root
 {
 	: lightblue 100,50,18;
@@ -48,7 +48,8 @@ main ul
 	display:  table;
 	margin: 0 auto;
 	text-align:  left;
-	padding-left: 2px;
+	padding-left: 2
+		px;
 }
 #wantedlist
 {
