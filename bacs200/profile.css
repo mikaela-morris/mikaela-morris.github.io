@@ -1,0 +1,33 @@
+{
+	:lightblue 100,50,18;
+}
+body
+{
+	text-align: center;
+	list-style-position: inside;
+	background-color:  mintcream;
+}
+h1
+{
+	font-size:  60pt;
+	margin-top:  10px;
+	margin-bottom: 0;
+}
+h2
+{
+	font-size:  20pt;
+	color: var black;
+	font-variant: small-caps;
+}
+h1
+{
+	font-size:  70pt;
+	font-family: 'alex-brush', cursive;
+	margin: 0;
+}
+h2
+{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 0;
+}
