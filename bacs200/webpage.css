@@ -1,10 +1,9 @@
 /* CSS Document */
-header{background-color: whitesmoke; font-size: 30px}
-h2 {text-align: center; font-size: 25px}
 body {background-color: mistyrose}
 body {font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+body {font-size: 0.875em}
 head {font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
 head {font-size: 2.5em}
 body {color: dimgrey}
-p {color:black; text-align: center}
+p {color:black}
 li {color: black}
